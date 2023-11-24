@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Hipoteques</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="calcular">Calcular</string>
+    <string name="previous">Previous</string>
+
+    <string name="preu_inmboble">Preu inmoble (€)</string>
+    <string name="estalvis">Estalvis</string>
+    <string name="plac_anys">Plaç (anys)</string>
+    <string name="euribor">Euribor</string>
+    <string name="diferencial">Diferencial</string>
+    <string name="Mes">Mes: 0</string>
+    <string name="total">Total: 0</string>
+    <array name="tipo_interes_array">
+        <item>Interés variable</item>
+        <item>Interés fijo</item>
+    </array>
+</resources>
